@@ -80,4 +80,5 @@ Awesome! Here’s your **personalized algorithm learning roadmap** as a **Markdo
     - Use case explored: Built a rate limiter in FastAPI
     - Reflection: Efficient in minimizing memory vs brute-force window scan
 - cracking the coding interview by Gayle McDowell
+- https://www.youtube.com/@AWSEventsChannel
 
